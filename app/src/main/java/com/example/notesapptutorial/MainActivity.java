@@ -1,4 +1,4 @@
-package com.example.notesapptutorial;
+    package com.example.notesapptutorial;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
